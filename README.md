@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 K-Drama Webpage
 
 This is my first frontend project built using HTML and CSS.  
@@ -35,3 +36,7 @@ It includes:
 
 👩‍💻 Created by Manisha 
 ✨ First step into frontend development
+=======
+# kdrama-webpage
+A beginner-friendly K-Drama fan webpage built with HTML and CSS while learning frontend development.
+>>>>>>> 9463d68f61a134b0d39394b0229bda0b3110c15e
